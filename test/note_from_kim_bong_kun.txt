@@ -1,0 +1,22 @@
+Hello Blue Cell! As you may be aware; big old Kim is having some fun around here...
+You will be happy to hear that some (all?) files under /home/president have been encrypted for your security. Cyber-security is our top priority here! 
+ 
+Knowing we are working with no one other than the president himself and the nuclear launch codes, files have been encrypted using AES 256-bit (CBC mode) for maximum security. 
+We'd be happy for you to reach out for the decryption key... But in the current atmosphere of mistrust, we are very wary of providing such information. However, we are providing you with the tool we used should you want to encrypt even more files! 
+We unfortunately only had two interns to make the software, but they assured us it is as safe as it gets! 
+ 
+We have left the binary we used in your home directory, named ./protect_the_president...
+
+Our interns suggested we mentioned what 'secure' number we used (their words), so here it is: 19. 
+ 
+You have a nice summary of what we have done below. 
+ 
+Best,
+Kim Bong Kun security team
+ 
+We encrypted these: 
+
+/home/president/launchcodes.txt
+
+And we failed to encrypt these (if any): 
+
